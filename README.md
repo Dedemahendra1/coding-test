@@ -7,6 +7,9 @@
 - shadcn/ui
 - React Hook Form + Zod
 
+Live Demo : https://coding-test-gamma-wine.vercel.app/
+github Repo : https://github.com/Dedemahendra1/coding-test
+
 ## Setup Database (Supabase)
 
 1. Buat project baru di https://supabase.com
