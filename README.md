@@ -33,7 +33,7 @@ create table pengajuan (
 
 ### Prasyarat
 
-- **Node.js 18.17+** sudah terinstal (disarankan LTS terbaru)
+- **Node.js 18.17+** sudah terinstal
 - Akun & project di https://supabase.com (untuk menyimpan data pengajuan)
 
 ### Langkah Menjalankan (Development)
@@ -77,12 +77,6 @@ create table pengajuan (
 
 6. Buka http://localhost:3000 di browser.
 
-### Memverifikasi Kode (opsional)
-
-```bash
-npm run lint      # cek linting
-npm run build     # build production
-```
 
 ### Menjalankan Production Build
 
